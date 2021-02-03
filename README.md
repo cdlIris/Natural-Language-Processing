@@ -1,3 +1,5 @@
+# Project for CMPT825 NLP 
+Code can also be found here: https://csil-git1.cs.surrey.sfu.ca/hwa137/nlpclass-1207-g-celestial-interface/-/tree/master/project
 ## Folder Description
 - The `ieee` folder contains average sentiment analysis on the IEEE dataset
 - The `lstm` folder contains lstm's tokenization code, model code and lstm evaluate code. And the saved models and logs along training.
@@ -26,3 +28,4 @@ Under the lstm folder,
 
 Use `python3 lstm.py` to train the lstm mdel, you could change the data dir, and parameter values inside it.\
 Use `python3 lstm_eval.py` to evaluate the lstm model, make sure you have the correct data dir and model dir\
+
